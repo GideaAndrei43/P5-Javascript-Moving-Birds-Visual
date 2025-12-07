@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your_gif.gif" width="900" alt="Visualization Preview">
+  <img src="ezgif.com-optimize.gif" width="900" alt="Visualization Preview">
 </p>
 
 # Flocking Birds – WebGL Visualization (p5.js)
